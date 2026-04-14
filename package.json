@@ -1,0 +1,12 @@
+{
+  "name": "supersonic-demand",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "npm@10.8.2",
+  "scripts": {
+    "install:dashboard": "cd dashboard && npm install",
+    "build": "cd dashboard && npm run build",
+    "dev": "cd dashboard && npm run dev"
+  }
+}
+

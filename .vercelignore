@@ -1,0 +1,12 @@
+.DS_Store
+.git
+.pytest_cache
+__pycache__
+notebooks
+pipeline
+scripts
+data/raw
+data/processed
+data/output
+requirements.txt
+dashboard/node_modules
