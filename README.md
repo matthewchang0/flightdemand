@@ -212,7 +212,7 @@ That `R²` is intentionally reported so the limitation is explicit. The bundled 
 
 ```bash
 cd supersonic-demand
-python3 -m pip install -r requirements.txt
+python3 -m pip install -r pipeline/requirements.txt
 ./scripts/download_data.sh
 python3 scripts/build_bti.py
 PYTHONPATH=. python3 -m pipeline.run_pipeline
