@@ -1,0 +1,377 @@
+{
+  "total_routes_analyzed": 2417,
+  "top_50_routes": [
+    {
+      "rank": 1,
+      "origin": "JFK",
+      "dest": "LHR",
+      "score": 92.89,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 2,
+      "origin": "NRT",
+      "dest": "SFO",
+      "score": 92.73,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 3,
+      "origin": "EWR",
+      "dest": "LHR",
+      "score": 92.12,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 4,
+      "origin": "LAX",
+      "dest": "NRT",
+      "score": 91.94,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 5,
+      "origin": "LAX",
+      "dest": "LHR",
+      "score": 91.47,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 6,
+      "origin": "LHR",
+      "dest": "SFO",
+      "score": 91.22,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 7,
+      "origin": "LHR",
+      "dest": "ORD",
+      "score": 89.95,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 8,
+      "origin": "HND",
+      "dest": "SFO",
+      "score": 85.72,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 9,
+      "origin": "HND",
+      "dest": "LAX",
+      "score": 85.24,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 10,
+      "origin": "LGA",
+      "dest": "LHR",
+      "score": 84.7,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 11,
+      "origin": "HND",
+      "dest": "ORD",
+      "score": 84.56,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 12,
+      "origin": "NRT",
+      "dest": "ORD",
+      "score": 84.21,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 13,
+      "origin": "HND",
+      "dest": "SIN",
+      "score": 83.97,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 14,
+      "origin": "NRT",
+      "dest": "SIN",
+      "score": 83.57,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 15,
+      "origin": "ICN",
+      "dest": "SFO",
+      "score": 83.33,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 16,
+      "origin": "DFW",
+      "dest": "LHR",
+      "score": 83.29,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 17,
+      "origin": "ICN",
+      "dest": "LAX",
+      "score": 83.22,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 18,
+      "origin": "PEK",
+      "dest": "SFO",
+      "score": 82.97,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 19,
+      "origin": "NRT",
+      "dest": "SEA",
+      "score": 82.9,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 20,
+      "origin": "LAX",
+      "dest": "PEK",
+      "score": 82.81,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 21,
+      "origin": "LHR",
+      "dest": "SEA",
+      "score": 82.35,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 22,
+      "origin": "IAD",
+      "dest": "LHR",
+      "score": 81.68,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 23,
+      "origin": "AMS",
+      "dest": "JFK",
+      "score": 81.16,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 24,
+      "origin": "JFK",
+      "dest": "ZRH",
+      "score": 80.77,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 25,
+      "origin": "ICN",
+      "dest": "SEA",
+      "score": 80.66,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 26,
+      "origin": "BOS",
+      "dest": "LHR",
+      "score": 80.25,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 27,
+      "origin": "DXB",
+      "dest": "SIN",
+      "score": 80.02,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 28,
+      "origin": "HND",
+      "dest": "LHR",
+      "score": 78.98,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 29,
+      "origin": "HND",
+      "dest": "SEA",
+      "score": 78.75,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 30,
+      "origin": "LHR",
+      "dest": "MIA",
+      "score": 78.52,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 31,
+      "origin": "LHR",
+      "dest": "NRT",
+      "score": 78.26,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 32,
+      "origin": "IAH",
+      "dest": "LHR",
+      "score": 77.78,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 33,
+      "origin": "ATL",
+      "dest": "LHR",
+      "score": 77.42,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 34,
+      "origin": "IST",
+      "dest": "JFK",
+      "score": 77.02,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 35,
+      "origin": "EWR",
+      "dest": "ZRH",
+      "score": 76.63,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 36,
+      "origin": "JFK",
+      "dest": "LAX",
+      "score": 76.57,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 37,
+      "origin": "JFK",
+      "dest": "SFO",
+      "score": 76.57,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 38,
+      "origin": "PEK",
+      "dest": "SEA",
+      "score": 76.48,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 39,
+      "origin": "LGA",
+      "dest": "ZRH",
+      "score": 76.44,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 40,
+      "origin": "AMS",
+      "dest": "EWR",
+      "score": 76.43,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 41,
+      "origin": "DCA",
+      "dest": "LHR",
+      "score": 76.43,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 42,
+      "origin": "LHR",
+      "dest": "YYZ",
+      "score": 76.34,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 43,
+      "origin": "AMS",
+      "dest": "SFO",
+      "score": 76.27,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 44,
+      "origin": "AMS",
+      "dest": "LAX",
+      "score": 76.23,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 45,
+      "origin": "AMS",
+      "dest": "LGA",
+      "score": 76.12,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 46,
+      "origin": "ORD",
+      "dest": "ZRH",
+      "score": 76.05,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 47,
+      "origin": "AMS",
+      "dest": "ORD",
+      "score": 75.93,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 48,
+      "origin": "EWR",
+      "dest": "TLV",
+      "score": 75.69,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 49,
+      "origin": "SFO",
+      "dest": "ZRH",
+      "score": 75.66,
+      "tier": "Tier 1"
+    },
+    {
+      "rank": 50,
+      "origin": "LAX",
+      "dest": "ZRH",
+      "score": 75.52,
+      "tier": "Tier 1"
+    }
+  ],
+  "routes_by_tier": {
+    "Tier 1": 50
+  },
+  "routes_by_region": {
+    "transatlantic": 28,
+    "transpacific": 14,
+    "intercontinental": 2,
+    "middle_east": 2,
+    "europe_asia": 2,
+    "americas": 2
+  },
+  "routes_by_route_type": {
+    "overwater": 44,
+    "hybrid": 4,
+    "overland": 2
+  },
+  "total_addressable_premium_pax": 9258523,
+  "total_addressable_revenue_B": 4.99,
+  "avg_time_saved_hr": 4.09,
+  "avg_overwater_pct": 0.8174,
+  "avg_score": 81.32,
+  "overland_routes_unlocked": 2
+}

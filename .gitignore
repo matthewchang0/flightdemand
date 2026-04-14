@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+data/raw/t100_international.csv
+data/raw/eurostat_avia_par.tsv
+data/raw/*.zip
+dashboard/node_modules/
+dashboard/dist/
+

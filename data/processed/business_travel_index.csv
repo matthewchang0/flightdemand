@@ -1,0 +1,113 @@
+city,city_norm,gdp_score,hq_score,finance_score,events_score,tech_score,total
+New York,new york,30,25,20,14,9,98
+London,london,29,24,20,14,9,96
+Tokyo,tokyo,28,24,18,13,8,91
+Hong Kong,hong kong,22,17,19,12,8,78
+Singapore,singapore,21,17,19,14,9,80
+San Francisco,san francisco,23,18,16,10,10,77
+Paris,paris,25,20,18,14,7,84
+Shanghai,shanghai,24,20,16,10,8,78
+Dubai,dubai,18,17,19,12,7,73
+Chicago,chicago,23,20,16,10,7,76
+Los Angeles,los angeles,23,18,14,11,8,74
+Beijing,beijing,24,20,16,10,7,77
+Sydney,sydney,18,14,17,11,8,68
+Frankfurt,frankfurt,18,18,18,9,6,69
+Seoul,seoul,19,17,15,10,8,69
+Toronto,toronto,18,15,15,11,7,66
+Zurich,zurich,16,14,18,9,6,63
+Boston,boston,18,14,14,8,9,63
+Washington DC,washington dc,18,16,15,11,6,66
+Seattle,seattle,17,14,13,8,9,61
+Mumbai,mumbai,18,16,12,9,7,62
+Sao Paulo,sao paulo,18,15,13,9,6,61
+Amsterdam,amsterdam,17,14,16,10,6,63
+Dublin,dublin,14,12,13,10,8,57
+Tel Aviv,tel aviv,15,13,13,8,8,57
+Dallas,dallas,18,16,12,8,7,61
+Houston,houston,17,15,11,7,6,56
+Miami,miami,16,13,12,10,6,57
+Bangkok,bangkok,16,12,10,11,6,55
+Taipei,taipei,15,12,13,8,7,55
+Melbourne,melbourne,15,12,14,9,7,57
+Geneva,geneva,14,11,16,9,5,55
+Munich,munich,16,13,15,8,6,58
+Madrid,madrid,16,13,13,10,6,58
+Milan,milan,16,13,14,9,6,58
+Doha,doha,13,12,16,8,5,54
+Abu Dhabi,abu dhabi,13,11,15,8,5,52
+Osaka,osaka,15,12,12,8,6,53
+Jakarta,jakarta,16,12,10,7,6,51
+Kuala Lumpur,kuala lumpur,15,11,11,8,6,51
+Atlanta,atlanta,18,14,11,8,6,57
+Denver,denver,15,12,10,7,6,50
+Philadelphia,philadelphia,15,12,11,7,5,50
+Johannesburg,johannesburg,14,11,11,8,6,50
+Istanbul,istanbul,16,13,12,9,6,56
+Delhi,delhi,17,15,10,8,7,57
+Mexico City,mexico city,17,14,10,9,6,56
+Bangalore,bangalore,16,12,9,7,9,53
+Stockholm,stockholm,14,11,14,8,6,53
+Copenhagen,copenhagen,14,11,14,8,6,53
+Vienna,vienna,14,11,14,8,5,52
+Brussels,brussels,14,11,14,9,5,53
+Montreal,montreal,14,11,12,8,6,51
+Vancouver,vancouver,14,11,12,8,7,52
+Lisbon,lisbon,13,10,11,9,5,48
+Barcelona,barcelona,14,11,11,9,6,51
+Warsaw,warsaw,13,10,10,8,6,47
+Prague,prague,12,10,10,8,6,46
+Helsinki,helsinki,12,9,11,7,6,45
+Oslo,oslo,12,9,11,7,6,45
+Edinburgh,edinburgh,11,9,10,8,5,43
+Riyadh,riyadh,13,11,11,7,5,47
+Auckland,auckland,12,9,11,7,6,45
+Brisbane,brisbane,11,9,10,7,6,43
+Perth,perth,11,8,10,6,5,40
+San Jose,san jose,15,10,10,6,9,50
+San Diego,san diego,13,10,9,6,8,46
+Austin,austin,13,10,9,6,8,46
+Phoenix,phoenix,13,10,8,6,7,44
+Minneapolis,minneapolis,13,10,8,6,6,43
+Detroit,detroit,13,10,9,6,6,44
+Charlotte,charlotte,12,10,8,6,6,42
+Orlando,orlando,11,8,7,8,5,39
+Las Vegas,las vegas,11,8,7,9,5,40
+Nashville,nashville,10,8,7,6,6,37
+Portland,portland,11,8,8,6,7,40
+Salt Lake City,salt lake city,11,8,8,6,6,39
+Santiago,santiago,13,10,9,7,6,45
+Bogota,bogota,12,10,8,7,6,43
+Lima,lima,12,9,8,7,5,41
+Buenos Aires,buenos aires,13,10,9,7,5,44
+Panama City,panama city,12,9,8,7,5,41
+Rio de Janeiro,rio de janeiro,12,9,8,8,5,42
+Cape Town,cape town,11,8,8,8,5,40
+Nairobi,nairobi,11,8,8,7,5,39
+Casablanca,casablanca,11,8,8,7,5,39
+Cairo,cairo,12,9,8,7,5,41
+Athens,athens,12,9,9,7,5,42
+Budapest,budapest,11,8,9,7,5,40
+Bucharest,bucharest,10,8,8,7,5,38
+Dusseldorf,dusseldorf,12,9,10,7,5,43
+Hamburg,hamburg,11,9,9,7,5,41
+Manchester,manchester,12,9,9,8,5,43
+Birmingham,birmingham,10,8,8,7,5,38
+Glasgow,glasgow,10,8,8,7,5,38
+Lyon,lyon,10,8,8,7,5,38
+Marseille,marseille,9,7,7,7,5,35
+Nice,nice,10,8,8,8,5,39
+Rome,rome,14,11,12,10,5,52
+Naples,naples,9,7,7,7,4,34
+Venice,venice,9,7,7,8,4,35
+Turin,turin,9,7,7,7,5,35
+Chennai,chennai,12,9,8,6,7,42
+Hyderabad,hyderabad,12,9,8,6,8,43
+Pune,pune,10,8,7,5,7,37
+Shenzhen,shenzhen,16,12,10,6,8,52
+Guangzhou,guangzhou,16,12,10,6,7,51
+Chengdu,chengdu,14,11,9,6,6,46
+Hangzhou,hangzhou,14,11,9,6,7,47
+Manila,manila,13,10,8,7,6,44
+Ho Chi Minh City,ho chi minh city,13,10,8,7,6,44
+Hanoi,hanoi,11,9,7,7,6,40
